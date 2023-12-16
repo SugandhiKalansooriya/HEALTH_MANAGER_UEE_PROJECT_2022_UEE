@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68227338646",
+    "project_id": "uee-health-manager",
+    "storage_bucket": "uee-health-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68227338646:android:6c39ab7d6d523fa6018db7",
+        "android_client_info": {
+          "package_name": "com.example.health_manager_uee_project_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68227338646-ov1samf9i1epal1pij4c43r01ufuhdsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm6rdS2xHfXCBNeeurlNtXTk1NtT0B6XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68227338646-ov1samf9i1epal1pij4c43r01ufuhdsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
